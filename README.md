@@ -19,13 +19,11 @@ O projeto permite:</br>
 ✅ Realizar consultas eficientes ao banco de dados</br>
 
 
-🎯 Conceitos aplicados:
-🔸 Programação Orientada a Objetos (POO)
-🔸 Estruturas de dados como ArrayList
-🔸 Laços de repetição e condicionais
-🔸 Relacionamento entre tabelas no banco de dados
-
-Se quiser conferir o projeto completo, segue o link: [Adicione o link aqui] 🚀
+🎯 Conceitos aplicados: </br>
+🔸 Programação Orientada a Objetos (POO) </br>
+🔸 Estruturas de dados como ArrayList </br>
+🔸 Laços de repetição e condicionais </br>
+🔸 Relacionamento entre tabelas no banco de dados </br>
 
 Estou aberto a feedbacks e sugestões!
 </p>
